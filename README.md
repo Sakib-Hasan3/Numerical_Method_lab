@@ -75,7 +75,7 @@ Jupyter Notebook or JupyterLab
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Numerical_Method_lab.git
+git clone https://github.com/Sakib-Hasan3/Numerical_Method_lab.git
 cd Numerical_Method_lab
 ```
 
@@ -280,9 +280,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/Sakib-Hasan3)
+- Email: ug2102052@cse.pstu.ac.bd
+- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/](https://www.linkedin.com/in/mohammed-sakib-hasan-50ab08362/))
 
 ## 🙏 Acknowledgments
 
